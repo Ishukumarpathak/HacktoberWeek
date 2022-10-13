@@ -1,22 +1,39 @@
-# Android Contributions
+# ML Contributions
 
-![Technical Documentation Contributions](https://user-images.githubusercontent.com/65972077/195259102-f9a8ffb6-804e-4511-99b8-7bc49cc612ba.png)
+![ML Contributions](https://user-images.githubusercontent.com/41143496/195287694-955f4054-157f-488b-9e0f-695c7e183c1f.png)
+
 [![first-timers](https://img.shields.io/badge/first--timers-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![PRs-welcome](https://img.shields.io/badge/PRs---welcome-green.svg?style=flat-square)
 
-## **ANDROID**
-Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance and commercially sponsored by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.
+## **Machine Learning**
+Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.[2] Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
 
-Most versions of Android are proprietary. The core components are taken from the Android Open Source Project (AOSP), which is free and open-source software (FOSS) primarily licensed under the Apache License. When Android is installed on devices, ability to modify the otherwise FOSS software is usually restricted, either by not providing the corresponding source code or preventing reinstallation through technical measures, rendering the installed version proprietary. Most Android devices ship with additional proprietary software pre-installed,[4] most notably Google Mobile Services (GMS)[5] which includes core apps such as Google Chrome, the digital distribution platform Google Play, and associated Google Play Services development platform.
+A subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers, but not all machine learning is statistical learning. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning. Some implementations of machine learning use data and neural networks in a way that mimics the working of a biological brain.In its application across business problems, machine learning is also referred to as predictive analytics.
 
-### **INSTALL ANDROID STUDIO**
-You can Install Android Studio for free from [here](https://developer.android.com/studio).
+### **INSTALL JupyterLab**
+You can Install JupyterLab using pip:
+
+`pip install jupyterlab`
+
+Once installed, launch JupyterLab with:
+
+`jupyter-lab`
+
+*Jupyter Notebook*
+
+Install the classic Jupyter Notebook with:
+
+`pip install notebook`
+
+To run the notebook:
+
+`jupyter notebook`
 <br/>
 <br/>
 
 ## **About HACTOBERWEEK: DAY 5**
-Day 5 of the hacktoberweek series was all about Android Development contributions.<br> 
-The experienced speakers, [Niket Jain](https://www.linkedin.com/in/niketjain8/) and [Rahul Kesharwani](https://www.linkedin.com/in/rahul-kesharwani/), gave valuable insights covering everything from what is Android, how to contribute as well as where to contribute with hands-on sessions.
+Day 5 of the hacktoberweek series was all about Machine Learning.<br>
+The experienced speakers, [Kartikey Rawat](https://www.linkedin.com/in/carrycooldude/) and [Anubhav Agrawal](https://www.linkedin.com/in/anubhav-agrawal-547a3419b/), gave valuable insights covering everything from what is Machine Learning, how to contribute as well as where to contribute with hands-on sessions.
 
 
 ### **Resources and where to contribute:**
@@ -24,9 +41,9 @@ To ***get you started*** check these orgs out  for quality contirbutions as well
 To spread awareness, everything from how to contribute with live contributions and lists of organisations & projects are covered.
 
 [OpInCo](https://github.com/OpInCo-Community) <br>
-[Tachiyomi](https://github.com/do-community) <br>
-[Appwrite](https://github.com/appwrite/appwrite) <br>
-[Material Component Android](https://github.com/material-components/material-components-android) 
+[Tensorflow](https://github.com/tensorflow) <br>
+[PyTorch](https://github.com/pytorch) <br>
+[FastAI](https://github.com/fastai)
 
 
 
@@ -39,7 +56,7 @@ To spread awareness, everything from how to contribute with live contributions a
 ## **Contributing Guidelines**
 
 Make sure that you -
-   
+
 1. Start working on the pull request if and only if you are assigned the complimentary issue.
 2. Create a good and valid PR. Go through the [Code of Conduct](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/CODE_OF_CONDUCT.md) and follow the templates to avoid spam.
 3. Make sure to go through [CONTRIBUTING.md](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/Technical-Documentaion/CONTRIBUTING.md) before raising a PR.
@@ -57,7 +74,3 @@ Make sure that you -
 <a href = "https://github.com/OpInCo-Community/HacktoberWeek/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=OpInCo-Community/HacktoberWeek"/>
 </a>
-
-
-
-
